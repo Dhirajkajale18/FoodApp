@@ -1,3 +1,17 @@
+**👨‍💻 other information:**
+Created by:
+
+1)Dhiraj Kajale
+
+2)Aryan Deshmukhe
+
+
+
+
+
+
+
+
 **🍽️ Food Ordering Console App — Java + JDBC**
 A lightweight, console-based Java application for food ordering that supports user registration,  menu browsing, placing orders, and viewing order history — all backed by PostgresqlSQL and JDBC.
 
@@ -99,9 +113,4 @@ For any questions or issues, feel free to reach out to the developer at:
 
 
 
-**👨‍💻 other information:**
-Created by:
 
-1)Dhiraj Kajale
-
-2)Aryan Deshmukhe
